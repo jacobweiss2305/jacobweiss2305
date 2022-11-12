@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob
 
-I build predictive models.
+I build ML systems.
 
 - 🏥  Senior ML Engineer
 - 🔥   Ex-Chief Data Scientist
