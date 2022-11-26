@@ -2,12 +2,6 @@
 
 I build ML systems.
 
-- 🏥  Senior ML Engineer
-- 🔥   Ex-Chief Data Scientist
-- 🎓  Applied Math @JohnsHopkins
-- 🎓  Financial Engineering @JohnsHopkins
-- 🎓  CS/ML @GeorgiaTech
-
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
