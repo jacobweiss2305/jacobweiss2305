@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob
 
-I build ML systems.
+I build AI systems.
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
