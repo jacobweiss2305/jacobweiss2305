@@ -2,6 +2,12 @@
 
 I build AI systems.
 
+I went to grad school at The Johns Hopkins University and Georgia Tech.
+
+I did undergrad at Western Colorado University.
+
+I run a small ranch in Colorado.
+
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
