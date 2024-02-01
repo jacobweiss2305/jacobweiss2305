@@ -4,7 +4,7 @@ I specialize in full stack AI/ML systems.
 
 I went to grad school at The Johns Hopkins University and Georgia Tech (undergrad at Western Colorado University).
 
-Owner/Operator of Weiss Mountain Ranch LLC in Colorado.
+I also own and operate a small farm in Colorado!
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
