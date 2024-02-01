@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob
 
-I specialize in AI systems.
+I specialize in full stack AI/ML systems.
 
 I went to grad school at The Johns Hopkins University and Georgia Tech (undergrad at Western Colorado University).
 
