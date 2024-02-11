@@ -1,17 +1,26 @@
-### Hi, I'm Jacob
+### Hi, I'm Jacob.
 
-I specialize in full stack AI/ML systems.
+About me:
+  - Full stack AI/ML systems
+  - LLM Developer
+  - Data Scientest
+  - Cloud Engineer
+  - Colorado Rancher
+  - YouTube
+  - The Johns Hopkins University
 
-I went to grad school at The Johns Hopkins University and Georgia Tech (undergrad at Western Colorado University).
+🔭 I’m currently working on:
+  - Private Enterprise Chatbots
+  - Supervised machine learning
+  - ML and ETL cloud patterns
 
-I also own and operate a small farm in Colorado!
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
