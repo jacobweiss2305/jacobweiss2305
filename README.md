@@ -14,6 +14,9 @@ About me:
   - Supervised machine learning
   - ML and ETL cloud patterns
 
+Products:
+  - Chat with Free Gartner Research with the [Gartner AI Chatbot](https://gartner-chatbot.vercel.app/)
+
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
