@@ -1,19 +1,21 @@
 ### Hi, I'm Jacob.
 
 About me:
-  - Full stack AI/ML systems
-  - LLM Developer
-  - Data Scientest
-  - Cloud Engineer
-  - Colorado Farmer & Rancher
-  - YouTuber @ai-cowboy
-  - The Johns Hopkins University
+  - 🤖 Full stack AI/ML systems 
+  - 🛠️ Data Scientest + ML Engineer + LLM Developer 
+  - ☁️ Cloud Engineer 
+  - 🐮 Colorado Farmer & Rancher 
+  - 🎥 YouTuber @ai-cowboy 
+  - 🐦 Johns Hopkins University 
+  - 🐝 Georgia Tech 
 
 🔭 I’m currently working on:
   - Private Enterprise Chatbots
   - Agentic behavior
   - Supervised machine learning
   - AI/ML cloud design patterns
+
+
 
 Products:
   - Chat with Free Gartner Research with the [Gartner AI Chatbot](https://gartner-chatbot.vercel.app/)
