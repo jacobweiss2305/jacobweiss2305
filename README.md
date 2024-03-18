@@ -13,7 +13,7 @@ About me:
   - Private Enterprise Chatbots
   - Agentic behavior
   - Supervised machine learning
-  - ML and ETL cloud patterns
+  - AI/ML cloud design patterns
 
 Products:
   - Chat with Free Gartner Research with the [Gartner AI Chatbot](https://gartner-chatbot.vercel.app/)
