@@ -11,6 +11,7 @@ About me:
 
 🔭 I’m currently working on:
   - Private Enterprise Chatbots
+  - Agentic behavior
   - Supervised machine learning
   - ML and ETL cloud patterns
 
