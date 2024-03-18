@@ -2,7 +2,7 @@
 
 About me:
   - 🤖 Full stack AI/ML systems 
-  - 🛠️ Data Scientest + ML Engineer + LLM Developer 
+  - 🛠️ Data Scientist + ML Engineer + LLM Developer 
   - ☁️ Cloud Engineer 
   - 🐮 Colorado Farmer & Rancher 
   - 🎥 YouTuber @ai-cowboy 
