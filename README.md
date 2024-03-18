@@ -5,8 +5,8 @@ About me:
   - LLM Developer
   - Data Scientest
   - Cloud Engineer
-  - Colorado Rancher
-  - YouTube
+  - Colorado Farmer & Rancher
+  - YouTuber @ai-cowboy
   - The Johns Hopkins University
 
 🔭 I’m currently working on:
