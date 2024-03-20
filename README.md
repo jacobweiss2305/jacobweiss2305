@@ -17,8 +17,8 @@ About me:
 
 Products:
   - [Chat with Free Gartner Research](https://gartner-chatbot.vercel.app/)
-  - [Q&A on the book Rinsed by Geoff White](rinsedgpt.com)
-  - [Chat with Joe Rogan podcast episodes](chat-jre.vercel.app)
+  - [Q&A on the book Rinsed by Geoff White](https://rinsedgpt.com)
+  - [Chat with Joe Rogan podcast episodes](https://chat-jre.vercel.app)
   - [Chat with Zendesk data](https://pointsbet-chatbot.vercel.app/)
 
 <!--
