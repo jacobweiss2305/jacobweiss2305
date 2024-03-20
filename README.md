@@ -15,7 +15,7 @@ About me:
   - Supervised machine learning
   - AI/ML cloud design patterns
 
-Products:
+Free Products I built:
   - [Chat with Free Gartner Research](https://gartner-chatbot.vercel.app/)
   - [Q&A on the book Rinsed by Geoff White](https://rinsedgpt.com)
   - [Chat with Joe Rogan podcast episodes](https://chat-jre.vercel.app)
