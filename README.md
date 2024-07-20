@@ -15,11 +15,8 @@ About me:
   - Supervised machine learning
   - AI/ML cloud design patterns
 
-Free Products I built:
-  - [Chat with Free Gartner Research](https://gartner-chatbot.vercel.app/)
+Products I built:
   - [Q&A on the book Rinsed by Geoff White](https://rinsedgpt.com)
-  - [Chat with Joe Rogan podcast episodes](https://chat-jre.vercel.app)
-  - [Sports betting chat app](https://pointsbet-chatbot.vercel.app/)
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
