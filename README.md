@@ -1,22 +1,15 @@
 ### Hi, I'm Jacob.
 
 About me:
-  - 🤖 Full stack AI/ML systems 
-  - 🛠️ Data Scientist + ML Engineer + AI Developer 
-  - ☁️ Cloud Engineer 
-  - 🐮 Colorado Farmer & Rancher 
-  - 🎥 YouTuber @ai-cowboy 
-  - 🐦 Johns Hopkins University 
-  - 🐝 Georgia Tech 
+  - Data Scientist + ML Engineer + AI Developer + Cloud Engineer 
+  - Colorado Farmer & Rancher 
+  - [YouTuber @ai-cowboy ](https://www.youtube.com/@ai-cowboy)
+  - M.S Financial Engineering @ Johns Hopkins University
+  - M.S. Applied and Computational Mathematics @ Johns Hopkins University
+  - M.S Analytics @ Georgia Tech 
 
-🔭 I’m currently working on:
-  - Private Enterprise Chatbots
-  - Agentic behavior
-  - Supervised machine learning
-  - AI/ML cloud design patterns
+I’m currently working on Phidata. [Build + Ship + Monitor AI applications](https://github.com/phidatahq/phidata)
 
-Products I built:
-  - [Q&A on the book Rinsed by Geoff White](https://rinsedgpt.com)
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
