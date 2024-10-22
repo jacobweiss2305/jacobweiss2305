@@ -8,8 +8,10 @@ About me:
   - M.S. Applied and Computational Mathematics @ Johns Hopkins University
   - M.S Analytics @ Georgia Tech 
 
-I’m currently working on Phidata. [Build + Ship + Monitor AI applications](https://github.com/phidatahq/phidata)
+Helping customers build Service-as-a-Software using Agentic Software
 
+Need help?
+Send me a email: jaweiss2305@gmail.com
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
