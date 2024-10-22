@@ -8,7 +8,7 @@ About me:
   - M.S. Applied and Computational Mathematics @ Johns Hopkins University
   - M.S Analytics @ Georgia Tech 
 
-Helping customers build Service-as-a-Software using Agentic Software
+Helping companies build Service-as-a-Software using Agentic Software
 
 Need help?
 Send me a email: jaweiss2305@gmail.com
