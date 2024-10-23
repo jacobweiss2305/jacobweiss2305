@@ -11,7 +11,7 @@ About me:
 Helping companies build Service-as-a-Software using AI
 
 Need help?
-Send me a email: jaweiss2305@gmail.com
+Send me an email: jaweiss2305@gmail.com
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
