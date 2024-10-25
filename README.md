@@ -8,7 +8,7 @@ About me:
   - M.S. Applied and Computational Mathematics @ Johns Hopkins University
   - M.S Analytics @ Georgia Tech 
 
-Helping companies build Service-as-a-Software using AI
+Helping companies build Service-as-a-Software
 
 Need help?
 Send me an email: jaweiss2305@gmail.com
