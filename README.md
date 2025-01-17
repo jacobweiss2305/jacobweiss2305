@@ -8,10 +8,7 @@ About me:
   - M.S. Applied and Computational Mathematics @ Johns Hopkins University
   - M.S Analytics @ Georgia Tech 
 
-Helping companies build Service-as-a-Software
-
-Need help?
-Send me an email: jaweiss2305@gmail.com
+Building Pixeltable
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
