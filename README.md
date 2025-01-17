@@ -8,7 +8,7 @@ About me:
   - M.S. Applied and Computational Mathematics @ Johns Hopkins University
   - M.S Analytics @ Georgia Tech 
 
-Building Pixeltable
+Building [Pixeltable](https://github.com/pixeltable)
 
 <!--
 **jacobweiss2305/jacobweiss2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
