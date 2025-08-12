@@ -1,7 +1,7 @@
 ### Hi, I'm Jacob.
 
 About me:
-  - Founding Engineer @ [pixeltable](pixeltable.com) & [agno](agno.com)
+  - Founding Engineer @ [pixeltable](https://www.pixeltable.com) & [agno](https://www.agno.com)
   - Data Scientist + ML Engineer + AI Developer + Cloud Engineer 
   - Colorado Farmer & Rancher 
   - [YouTuber @ai-cowboy ](https://www.youtube.com/@ai-cowboy)
