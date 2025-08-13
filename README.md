@@ -1,7 +1,7 @@
 ### Hi, I'm Jacob.
 
 About me:
-  - Contributor to [pixeltable](https://www.pixeltable.com) and [agno](https://www.agno.com)
+  - Engineered popular AI frameworks: [pixeltable](https://www.pixeltable.com) and [agno](https://www.agno.com)
   - Data Scientist + ML Engineer + AI Developer + Cloud Engineer 
   - Colorado Farmer & Rancher 
   - [YouTuber @ai-cowboy ](https://www.youtube.com/@ai-cowboy/videos)
