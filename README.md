@@ -8,5 +8,6 @@ About me:
 Building [While](https://www.withwhile.com) -> practical mid and post-training platform for engineers and researchers.
 
 Projects:
+  - [whileai-sdk](https://github.com/whilehq/whileai-sdk)
   - [pixeltable](https://www.pixeltable.com)
   - [agno](https://www.agno.com)
